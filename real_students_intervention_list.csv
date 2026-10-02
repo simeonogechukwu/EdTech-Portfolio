@@ -1,0 +1,179 @@
+sex,age,studytime_label,absences,final_score,letter_grade
+M,18,< 2 hours,0,0.0,F (Fail)
+F,18,> 10 hours,0,0.0,F (Fail)
+M,16,< 2 hours,0,0.0,F (Fail)
+F,18,2 - 5 hours,0,0.0,F (Fail)
+M,17,< 2 hours,0,0.0,F (Fail)
+F,18,2 - 5 hours,0,0.0,F (Fail)
+M,19,< 2 hours,0,0.0,F (Fail)
+M,18,< 2 hours,0,0.0,F (Fail)
+M,16,< 2 hours,0,0.0,F (Fail)
+F,18,2 - 5 hours,0,0.0,F (Fail)
+F,19,2 - 5 hours,0,0.0,F (Fail)
+F,15,2 - 5 hours,0,0.0,F (Fail)
+M,17,< 2 hours,0,0.0,F (Fail)
+F,19,2 - 5 hours,0,0.0,F (Fail)
+F,17,> 10 hours,0,0.0,F (Fail)
+M,15,> 10 hours,0,0.0,F (Fail)
+F,18,2 - 5 hours,0,0.0,F (Fail)
+F,16,< 2 hours,0,0.0,F (Fail)
+F,15,5 - 10 hours,0,0.0,F (Fail)
+F,15,< 2 hours,0,0.0,F (Fail)
+F,18,5 - 10 hours,0,0.0,F (Fail)
+M,17,2 - 5 hours,0,0.0,F (Fail)
+F,16,2 - 5 hours,0,0.0,F (Fail)
+M,15,2 - 5 hours,0,0.0,F (Fail)
+F,15,5 - 10 hours,0,0.0,F (Fail)
+M,18,2 - 5 hours,0,0.0,F (Fail)
+M,18,2 - 5 hours,0,0.0,F (Fail)
+F,17,2 - 5 hours,0,0.0,F (Fail)
+M,16,< 2 hours,0,0.0,F (Fail)
+F,16,2 - 5 hours,0,0.0,F (Fail)
+F,18,2 - 5 hours,0,0.0,F (Fail)
+F,18,5 - 10 hours,0,0.0,F (Fail)
+F,19,5 - 10 hours,0,0.0,F (Fail)
+F,17,< 2 hours,0,0.0,F (Fail)
+M,16,< 2 hours,0,0.0,F (Fail)
+F,17,2 - 5 hours,0,0.0,F (Fail)
+F,17,5 - 10 hours,0,0.0,F (Fail)
+M,19,< 2 hours,0,0.0,F (Fail)
+F,17,2 - 5 hours,22,20.0,F (Fail)
+M,17,< 2 hours,16,25.0,F (Fail)
+F,15,2 - 5 hours,2,25.0,F (Fail)
+F,17,< 2 hours,14,25.0,F (Fail)
+M,16,< 2 hours,14,25.0,F (Fail)
+M,18,2 - 5 hours,8,25.0,F (Fail)
+M,18,< 2 hours,14,25.0,F (Fail)
+F,16,2 - 5 hours,12,25.0,F (Fail)
+M,16,2 - 5 hours,18,30.0,F (Fail)
+F,17,2 - 5 hours,2,30.0,F (Fail)
+F,17,< 2 hours,18,30.0,F (Fail)
+M,17,2 - 5 hours,4,30.0,F (Fail)
+F,18,2 - 5 hours,6,30.0,F (Fail)
+F,17,2 - 5 hours,4,30.0,F (Fail)
+F,17,2 - 5 hours,6,30.0,F (Fail)
+F,18,< 2 hours,7,30.0,F (Fail)
+F,15,2 - 5 hours,26,30.0,F (Fail)
+F,16,2 - 5 hours,4,30.0,F (Fail)
+F,15,< 2 hours,0,30.0,F (Fail)
+F,15,2 - 5 hours,8,30.0,F (Fail)
+F,16,2 - 5 hours,4,30.0,F (Fail)
+F,16,> 10 hours,4,30.0,F (Fail)
+F,15,2 - 5 hours,10,30.0,F (Fail)
+F,17,5 - 10 hours,6,35.0,F (Fail)
+F,16,2 - 5 hours,5,35.0,F (Fail)
+F,18,2 - 5 hours,16,35.0,F (Fail)
+M,18,< 2 hours,5,35.0,F (Fail)
+F,15,2 - 5 hours,2,35.0,F (Fail)
+M,21,< 2 hours,3,35.0,F (Fail)
+M,17,2 - 5 hours,0,35.0,F (Fail)
+M,15,2 - 5 hours,6,35.0,F (Fail)
+M,16,2 - 5 hours,18,35.0,F (Fail)
+M,19,2 - 5 hours,8,40.0,D
+F,18,2 - 5 hours,15,40.0,D
+M,17,< 2 hours,30,40.0,D
+M,18,2 - 5 hours,13,40.0,D
+F,18,2 - 5 hours,0,40.0,D
+F,17,< 2 hours,3,40.0,D
+F,18,2 - 5 hours,10,40.0,D
+M,19,< 2 hours,38,40.0,D
+M,17,< 2 hours,2,40.0,D
+M,16,< 2 hours,0,40.0,D
+M,22,< 2 hours,16,40.0,D
+M,19,< 2 hours,4,40.0,D
+M,18,< 2 hours,7,40.0,D
+M,18,< 2 hours,0,40.0,D
+M,18,2 - 5 hours,2,40.0,D
+M,18,> 10 hours,2,40.0,D
+M,18,< 2 hours,4,40.0,D
+M,18,2 - 5 hours,15,40.0,D
+F,19,> 10 hours,10,40.0,D
+M,15,2 - 5 hours,2,40.0,D
+F,16,2 - 5 hours,0,40.0,D
+M,17,2 - 5 hours,20,40.0,D
+F,15,> 10 hours,8,40.0,D
+M,16,2 - 5 hours,10,40.0,D
+F,17,2 - 5 hours,56,40.0,D
+F,16,5 - 10 hours,0,40.0,D
+F,16,5 - 10 hours,0,40.0,D
+F,15,2 - 5 hours,2,40.0,D
+F,15,2 - 5 hours,6,40.0,D
+M,17,2 - 5 hours,12,40.0,D
+F,15,5 - 10 hours,2,40.0,D
+F,16,< 2 hours,14,40.0,D
+F,18,2 - 5 hours,75,45.0,D
+M,18,< 2 hours,22,45.0,D
+M,20,2 - 5 hours,11,45.0,D
+F,15,2 - 5 hours,0,45.0,D
+F,18,5 - 10 hours,9,45.0,D
+F,16,2 - 5 hours,4,45.0,D
+F,16,5 - 10 hours,2,45.0,D
+F,17,2 - 5 hours,12,45.0,D
+F,17,5 - 10 hours,7,45.0,D
+F,19,2 - 5 hours,4,45.0,D
+F,18,2 - 5 hours,0,45.0,D
+F,19,2 - 5 hours,15,45.0,D
+M,15,2 - 5 hours,2,45.0,D
+M,18,5 - 10 hours,0,45.0,D
+F,16,2 - 5 hours,14,45.0,D
+F,19,2 - 5 hours,2,45.0,D
+M,15,2 - 5 hours,8,45.0,D
+M,19,< 2 hours,5,45.0,D
+M,17,2 - 5 hours,4,45.0,D
+F,17,2 - 5 hours,0,45.0,D
+M,16,< 2 hours,10,45.0,D
+F,16,2 - 5 hours,4,45.0,D
+M,17,2 - 5 hours,14,45.0,D
+F,17,5 - 10 hours,28,45.0,D
+F,17,2 - 5 hours,6,45.0,D
+M,16,< 2 hours,8,45.0,D
+F,17,5 - 10 hours,4,45.0,D
+M,18,2 - 5 hours,14,45.0,D
+M,17,< 2 hours,19,50.0,C
+F,15,2 - 5 hours,10,50.0,C
+F,17,2 - 5 hours,17,50.0,C
+M,16,2 - 5 hours,12,50.0,C
+M,18,2 - 5 hours,10,50.0,C
+M,16,5 - 10 hours,10,50.0,C
+F,19,2 - 5 hours,18,50.0,C
+F,17,< 2 hours,12,50.0,C
+M,17,2 - 5 hours,12,55.00000000000001,C
+F,19,5 - 10 hours,40,55.00000000000001,C
+F,15,> 10 hours,10,55.00000000000001,C
+F,18,2 - 5 hours,10,55.00000000000001,C
+F,16,2 - 5 hours,12,55.00000000000001,C
+F,18,2 - 5 hours,14,55.00000000000001,C
+F,16,2 - 5 hours,25,55.00000000000001,C
+M,18,2 - 5 hours,11,55.00000000000001,C
+M,16,2 - 5 hours,16,55.00000000000001,C
+M,19,2 - 5 hours,12,55.00000000000001,C
+F,16,< 2 hours,16,55.00000000000001,C
+F,19,2 - 5 hours,22,55.00000000000001,C
+F,16,2 - 5 hours,54,55.00000000000001,C
+F,17,5 - 10 hours,10,60.0,C
+F,17,< 2 hours,12,60.0,C
+F,16,< 2 hours,20,60.0,C
+M,16,< 2 hours,16,60.0,C
+M,17,2 - 5 hours,14,60.0,C
+F,16,2 - 5 hours,14,60.0,C
+F,16,2 - 5 hours,10,65.0,B
+M,16,< 2 hours,18,65.0,B
+F,18,2 - 5 hours,12,65.0,B
+M,17,2 - 5 hours,13,65.0,B
+M,19,2 - 5 hours,20,65.0,B
+F,19,5 - 10 hours,12,65.0,B
+F,16,2 - 5 hours,10,65.0,B
+F,19,5 - 10 hours,14,65.0,B
+F,17,2 - 5 hours,23,65.0,B
+M,18,< 2 hours,10,65.0,B
+F,19,2 - 5 hours,20,65.0,B
+F,17,2 - 5 hours,14,70.0,B
+F,17,2 - 5 hours,10,75.0,B
+M,18,2 - 5 hours,11,75.0,B
+M,16,2 - 5 hours,10,75.0,B
+F,17,5 - 10 hours,16,75.0,B
+F,15,> 10 hours,12,80.0,A
+M,18,2 - 5 hours,13,85.0,A
+F,17,< 2 hours,24,90.0,A
+F,18,2 - 5 hours,21,90.0,A
+M,15,< 2 hours,10,95.0,A
