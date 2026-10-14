@@ -1,0 +1,11 @@
+student_id,full_name,email,course_name,current_grade,days_inactive,risk_level
+STU_102,James Smith,james@school.edu,Database Architectures,42.0,12,Critical (Failing + Inactive)
+STU_109,Lena Mueller,lena@school.edu,Learning Analytics Systems,45.0,0,Academic Risk (Failing Grade)
+STU_105,Grace Eze,grace@school.edu,Database Architectures,48.5,10,Critical (Failing + Inactive)
+STU_106,Omar Hassan,omar@school.edu,Learning Analytics Systems,62.0,1,Good Standing
+STU_108,Chidi Nwosu,chidi@school.edu,Database Architectures,73.0,2,Good Standing
+STU_104,David Chen,david@school.edu,Instructional Design Foundations,78.0,4,Good Standing
+STU_110,Kwame Asante,kwame@school.edu,Instructional Design Foundations,82.0,11,Engagement Risk (Inactive)
+STU_101,Amina Okafor,amina@school.edu,Learning Analytics Systems,88.5,0,Good Standing
+STU_107,Sarah Williams,sarah@school.edu,Instructional Design Foundations,91.0,0,Good Standing
+STU_103,Fatima Bello,fatima@school.edu,Learning Analytics Systems,94.0,0,Good Standing

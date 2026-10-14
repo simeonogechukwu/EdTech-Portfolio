@@ -1,0 +1,2 @@
+student_id,full_name,email,grade_level,course_name,subject,instructor,final_grade,letter_grade,academic_status
+6,Omar Hassan,omar@school.edu,Year 1,Introduction to Python,Computer Science,Dr. Adewale,42.0,F,Academic Warning
